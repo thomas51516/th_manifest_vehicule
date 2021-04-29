@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Module de manifest',
-    'version': '1.2.0',
-    'price': 15.99,
-    'currency': 'EUR',
+    'version': '1.0.0',
     'license': 'AGPL-3',
     'summary': """
        Module de manifest
